@@ -7,4 +7,4 @@ admin
   
     pswd : invite123A@
     
-Please do not change or save any change into the admin   
+Please do not change any content or save any change into the admin   
