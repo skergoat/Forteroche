@@ -5,7 +5,7 @@ Install this website on your server :
 
     - clone repository 
     - rename it "projet_4"
-    - go to Model Repository 
+    - go to Model > Repository 
     
       then :  
             - import the file forteroche.sql into your database 
