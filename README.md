@@ -12,7 +12,7 @@ Install this website on your server :
             - change your connexion infos into Manager.php
 
     - go to view > back > Comments. 
-    In each files, find the "**** change your domain here ****" comment. 
+    In each files, find the "**** change your domain here ****" comment 
     Then add your domain name into the image link below
     
     - be sure that your server point to : your-domain/project_4/name-of-the-page 
