@@ -1,6 +1,14 @@
 # Forteroche
 Living demo : https://skergoat.com/projet_4
 
+admin 
+
+    pseudo : invite
+  
+    pswd : invite123A@
+    
+Please do not change any content or save any change into the admin    
+
 Install this website on your server : 
 
     - clone repository 
@@ -19,10 +27,4 @@ Install this website on your server :
     
     And that's it ! 
 
-admin 
 
-    pseudo : invite
-  
-    pswd : invite123A@
-    
-Please do not change any content or save any change into the admin    
