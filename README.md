@@ -20,7 +20,7 @@ Install this website on your server :
             - import the file forteroche.sql into your database 
             - change your connexion infos into Manager.php
 
-    - go to view > back > Comments. 
+    - go to view > back > Comments 
     In each files, find the "**** change your domain here ****" comment 
     Then add your domain name into the image link below
     
